@@ -2,4 +2,8 @@
 
 This repository includes some solutions for SDSU CSC710 quizes, assignments, and exams.
 
-How does the Passing Method works, including passing by value, passing by value-result, passing by reference, passing by name.
+1. Passing methods
+  On hold...
+
+2. AR
+  On hold...
